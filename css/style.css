@@ -264,14 +264,13 @@ header .navbar {
 
 .gif {
     padding: 100px;
-    margin-top: 30px;
     margin-left: 20px;
 }
 
 
 #slow_gif {
-    width: 300px;
-    height: 300px;
+    width: 270px;
+    height: 350px;
 }
 
 #bar {
@@ -2017,7 +2016,7 @@ textarea {
 
     #slow_gif {
         width: 250px;
-        height: 250px;
+        height: 300px;
     }
 
     .subt h2 {
