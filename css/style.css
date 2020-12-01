@@ -262,6 +262,18 @@ header .navbar {
     margin-top: -10px;
 } */
 
+.gif {
+    padding: 100px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+
+#slow_gif {
+    width: 300px;
+    height: 300px;
+}
+
 #bar {
     display: inline-flex;
     /* justify-content: space-around; */
@@ -1821,11 +1833,6 @@ textarea {
         margin: 10px;
     }
 
-    #slow_gif {
-        width: 300px;
-        height: 300px;
-    }
-
     #banner {
         height: auto;
     }
@@ -2006,6 +2013,11 @@ textarea {
 
     .subt2 {
         display: none;
+    }
+
+    #slow_gif {
+        width: 250px;
+        height: 250px;
     }
 
     .subt h2 {
